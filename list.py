@@ -42,4 +42,3 @@ print(sum(lista))
 print(max(lista))
 
 print(min(lista))
-
